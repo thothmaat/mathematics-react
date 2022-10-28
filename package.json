@@ -10,8 +10,19 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "antd": "^4.23.6",
+    "echarts": "^5.4.0",
+    "echarts-for-react": "^3.0.2",
+    "echarts-gl": "^2.0.9",
+    "echarts-stat": "^1.2.0",
+    "echarts-wordcloud": "^2.0.0",
+    "mathjax-full": "^3.2.2",
+    "mathjax-react": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-loadable": "^5.5.0",
+    "react-mathjax3": "^0.0.3",
+    "react-router-config": "^5.1.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
@@ -39,5 +50,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-loadable": "^5.5.6",
+    "@types/react-router-config": "^5.0.6"
   }
 }
